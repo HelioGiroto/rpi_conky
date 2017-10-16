@@ -8,7 +8,5 @@ download the conkyrc file to home directory as .conkyrc
 
 https://www.youtube.com/watch?v=v8wI15xBRwQ
 
-<iframe src="https://www.youtube.com/embed/OB7Nfe_05h4"></iframe>
 
-
-[VIDEO DE INSTALACAO](https://www.youtube.com/embed/OB7Nfe_05h4](https://www.youtube.com/embed/OB7Nfe_05h4 "Everything Is AWESOME")
+[![VIDEO DE INSTALAÇÃO:](https://img.youtube.com/vi/OB7Nfe_05h4/0.jpg)](https://www.youtube.com/embed/OB7Nfe_05h4 "Everything Is AWESOME")
